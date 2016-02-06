@@ -1,2 +1,2 @@
 # hello-world
-Primer ejemplo github
+Soy Juan Jara, desarrollador de código de Chile.
